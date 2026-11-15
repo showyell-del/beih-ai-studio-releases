@@ -1,1 +1,1 @@
-85f86d3488f180f998eb1c7b2d33475de94384b6833d383de71a8fc1a447503c  toonflow-2.0.1-macos-arm64.dmg
+d1792e83e52cac4b7a87b57439bc8ea4bb2c7c2b2d65cbbe04a29fd70bc22b27  Mercy-2.0.2-macos-arm64.dmg
