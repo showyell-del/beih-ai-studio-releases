@@ -1,1 +1,1 @@
-d1792e83e52cac4b7a87b57439bc8ea4bb2c7c2b2d65cbbe04a29fd70bc22b27  Mercy-2.0.2-macos-arm64.dmg
+dc06e0af21be7efc67275acd33d354b50609000ff10e9f1320a929096a3c07a8  Mercy-2.0.3-macos-arm64.dmg
